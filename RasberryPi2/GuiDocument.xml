@@ -18,13 +18,13 @@
 <![CDATA[
 OrthographicCamera {
   viewportMapping ADJUST_CAMERA
-  position 32.755852 1.4538984 30.727341
+  position 33.606194 -17.949631 10.473412
   orientation 0.74290609 0.30772209 0.59447283  1.2171158
   nearDistance -124.60642
   farDistance 194.17178
   aspectRatio 1
   focalDistance 15.432689
-  height 17.513477
+  height 108.45165
 
 }
 ## overrideMode: Shadow]]>
