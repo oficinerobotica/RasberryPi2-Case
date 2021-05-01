@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- FreeCAD ViewProvider -->
 <Document SchemaVersion="1" FileVersion="2">
-<ViewProvider name="Body" expanded="0" Extensions="True">
+<ViewProvider name="Body" expanded="1" Extensions="True">
   <Extensions Count="2">
     <Extension type="Gui::ViewProviderOriginGroupExtension" name="ViewProviderOriginGroupExtension">
     </Extension>
@@ -19,7 +19,28 @@
       <Float value="0.2"/>
     </Property>
     <Property name="DiffuseColor" type="App::PropertyColorList" status="1">
-      <ColorList count="1" >
+      <ColorList count="22" >
+46aa4600
+46aa4600
+46aa4600
+46aa4600
+46aa4600
+46aa4600
+46aa4600
+46aa4600
+46aa4600
+46aa4600
+46aa4600
+46aa4600
+46aa4600
+46aa4600
+ffff7f00
+ffff7f00
+ffff7f00
+ffff7f00
+46aa4600
+46aa4600
+46aa4600
 46aa4600
       </ColorList>
     </Property>

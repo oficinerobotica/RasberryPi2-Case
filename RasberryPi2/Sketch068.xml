@@ -124,7 +124,7 @@
       <Bool value="false"/>
     </Property>
     <Property name="Placement" type="App::PropertyPlacement" status="8388612">
-      <PropertyPlacement Px="0" Py="0" Pz="0" Q0="0.7071067811865475" Q1="0" Q2="0" Q3="0.7071067811865476" A="1.570796326794897" Ox="1" Oy="0" Oz="0"/>
+      <PropertyPlacement Px="0" Py="0" Pz="0" Q0="0.7071067811865477" Q1="0" Q2="0" Q3="0.7071067811865474" A="1.570796326794897" Ox="1" Oy="0" Oz="0"/>
     </Property>
     <Property name="Shape" type="Part::PropertyPartShape">
       <Part ElementMap="0.15.70200.4" brep="1">
@@ -137,9 +137,9 @@ Locations 7
               0 2.22044604925031e-16              -1               0 
               0               1 2.22044604925031e-16               0 
 1
--2.22044604925031e-16               0               1               0 
-              1 -2.22044604925031e-16               0               0 
-              0               1 -2.22044604925031e-16               0 
+-2.22044604925031e-16 -4.93038065763131e-32               1               0 
+              1               0 2.22044604925031e-16               0 
+-1.09476442525376e-47               1 4.93038065763131e-32               0 
 1
               1               0               0               0 
               0 2.22044604925031e-16              -1               0 
@@ -292,7 +292,7 @@ EndMap
         <Link obj="XZ_Plane014" sub=""/>
       </LinkSubList>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="false"/>
     </Property>
   </Properties>

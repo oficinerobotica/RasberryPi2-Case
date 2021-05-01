@@ -12,7 +12,7 @@
       <String value="Attacher::AttachEnginePlane"/>
     </Property>
     <Property name="AttachmentOffset" type="App::PropertyPlacement">
-      <PropertyPlacement Px="0" Py="0.5" Pz="0" Q0="0.7071067811865475" Q1="0" Q2="0" Q3="0.7071067811865476" A="1.570796326794897" Ox="1" Oy="0" Oz="0"/>
+      <PropertyPlacement Px="0" Py="0.5" Pz="0" Q0="0.7071067811865477" Q1="0" Q2="0" Q3="0.7071067811865474" A="1.570796326794897" Ox="1" Oy="0" Oz="0"/>
     </Property>
     <Property name="ColoredElements" type="App::PropertyLinkSubHidden" status="218103808">
       <LinkSub value="" count="0">
@@ -172,7 +172,7 @@
       <Bool value="false"/>
     </Property>
     <Property name="Placement" type="App::PropertyPlacement" status="8388612">
-      <PropertyPlacement Px="16.79999999999999" Py="0" Pz="0.5000000000000038" Q0="0.7071067811865475" Q1="0.7071067811865477" Q2="5.551115123125783e-17" Q3="5.551115123125783e-17" A="3.141592653589793" Ox="0.7071067811865475" Oy="0.7071067811865477" Oz="5.551115123125783e-17"/>
+      <PropertyPlacement Px="16.79999999999999" Py="1.110223024625157e-16" Pz="0.5000000000000037" Q0="0.7071067811865476" Q1="0.7071067811865476" Q2="-1.665334536937735e-16" Q3="-5.551115123125784e-17" A="3.141592653589794" Ox="0.7071067811865476" Oy="0.7071067811865476" Oz="-1.665334536937735e-16"/>
     </Property>
     <Property name="Shape" type="Part::PropertyPartShape">
       <Part ElementMap="0.15.70200.4" brep="1">
@@ -181,9 +181,9 @@
 CASCADE Topology V1, (c) Matra-Datavision
 Locations 1
 1
--4.44089209850063e-16               1 1.57009245868378e-16            16.8 
-              1 4.44089209850063e-16 4.50742086486854e-32               0 
--2.46519032881566e-32 1.57009245868378e-16              -1 0.500000000000004 
+-2.22044604925031e-16               1 -3.14018491736755e-16            16.8 
+              1 2.22044604925031e-16 -1.57009245868378e-16 1.11022302462516e-16 
+-1.57009245868378e-16 -3.14018491736755e-16              -1 0.500000000000004 
 Curve2ds 0
 Curves 8
 1 -6.4300000000248652 0 0 1 0 0 

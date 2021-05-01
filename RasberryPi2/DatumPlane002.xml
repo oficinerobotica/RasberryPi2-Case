@@ -12,7 +12,7 @@
       <String value="Attacher::AttachEnginePlane"/>
     </Property>
     <Property name="AttachmentOffset" type="App::PropertyPlacement">
-      <PropertyPlacement Px="0" Py="0" Pz="0" Q0="0" Q1="0.7071067811865475" Q2="0" Q3="0.7071067811865476" A="1.570796326794897" Ox="0" Oy="1" Oz="0"/>
+      <PropertyPlacement Px="0" Py="0" Pz="0" Q0="0" Q1="0.7071067811865477" Q2="0" Q3="0.7071067811865474" A="1.570796326794897" Ox="0" Oy="1" Oz="0"/>
     </Property>
     <Property name="ColoredElements" type="App::PropertyLinkSubHidden" status="218103808">
       <LinkSub value="" count="0">
@@ -46,7 +46,7 @@
       <Float value="10"/>
     </Property>
     <Property name="Placement" type="App::PropertyPlacement" status="8388612">
-      <PropertyPlacement Px="20.31934600000018" Py="3.965082230804128e-15" Pz="3.378711000000007" Q0="2.220446049250313e-16" Q1="4.999798877940418e-16" Q2="1" Q3="4.552292110392042e-16" A="3.141592653589792" Ox="2.220446049250313e-16" Oy="4.999798877940418e-16" Oz="1"/>
+      <PropertyPlacement Px="20.31934600000019" Py="3.965082230804133e-15" Pz="3.378711000000009" Q0="-1.959543638463401e-14" Q1="4.134498987347633e-16" Q2="1" Q3="2.594403061529622e-16" A="3.141592653589793" Ox="-1.959543638463401e-14" Oy="4.134498987347633e-16" Oz="1"/>
     </Property>
     <Property name="ResizeMode" type="App::PropertyEnumeration" status="134217728">
       <Integer value="0"/>
@@ -58,9 +58,9 @@
 CASCADE Topology V1, (c) Matra-Datavision
 Locations 1
 1
-             -1 -9.10458422078408e-16 4.44089209850063e-16 20.3193460000002 
-9.10458422078409e-16              -1 9.99959775588083e-16 3.96508223080413e-15 
-4.44089209850062e-16 9.99959775588084e-16               1 3.37871100000001 
+             -1 -5.18880612305941e-16 -3.9190872769268e-14 20.3193460000002 
+5.18880612305908e-16              -1 8.26899797469537e-16 3.96508223080413e-15 
+-3.9190872769268e-14 8.26899797469516e-16               1 3.37871100000001 
 Curve2ds 0
 Curves 0
 Polygon3D 0
@@ -73,7 +73,7 @@ TShapes 1
 Fa
 1  1e-07 1 0
 
-1101010
+1111010
 *
 
 +1 1 ]]>
@@ -86,7 +86,7 @@ Fa
         <Link obj="Fillet030" sub="Face4" shadowed=";#13716;:H52d,F.Face4"/>
       </LinkSubList>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="false"/>
     </Property>
     <Property name="Width" type="App::PropertyLength" status="134217732">

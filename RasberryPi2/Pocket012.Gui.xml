@@ -37,10 +37,10 @@
 46aa4600
 46aa4600
 46aa4600
-ffff0000
-ffff0000
-ffff0000
-ffff0000
+ffff7f00
+ffff7f00
+ffff7f00
+ffff7f00
 46aa4600
 46aa4600
 46aa4600
@@ -90,10 +90,10 @@ ffff0000
     </Property>
     <Property name="MappedColors" type="App::PropertyColorList" status="83886081">
       <ColorList count="4" >
-ffff0000
-ffff0000
-ffff0000
-ffff0000
+ffff7f00
+ffff7f00
+ffff7f00
+ffff7f00
       </ColorList>
     </Property>
     <Property name="OnTopWhenSelected" type="App::PropertyEnumeration" status="1">

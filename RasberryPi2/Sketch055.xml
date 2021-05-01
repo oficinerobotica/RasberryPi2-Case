@@ -12,7 +12,7 @@
       <String value="Attacher::AttachEnginePlane"/>
     </Property>
     <Property name="AttachmentOffset" type="App::PropertyPlacement">
-      <PropertyPlacement Px="0" Py="0.5" Pz="0" Q0="0.7071067811865475" Q1="0" Q2="0" Q3="0.7071067811865476" A="1.570796326794897" Ox="1" Oy="0" Oz="0"/>
+      <PropertyPlacement Px="0" Py="0.5" Pz="0" Q0="0.7071067811865477" Q1="0" Q2="0" Q3="0.7071067811865474" A="1.570796326794897" Ox="1" Oy="0" Oz="0"/>
     </Property>
     <Property name="ColoredElements" type="App::PropertyLinkSubHidden" status="218103808">
       <LinkSub value="" count="0">
@@ -172,7 +172,7 @@
       <Bool value="false"/>
     </Property>
     <Property name="Placement" type="App::PropertyPlacement" status="8388612">
-      <PropertyPlacement Px="16.8" Py="-7.516209876712304e-15" Pz="0.5000000000000093" Q0="0.7071067811865477" Q1="0.7071067811865475" Q2="2.775557561562891e-16" Q3="2.220446049250313e-16" A="3.141592653589793" Ox="0.7071067811865477" Oy="0.7071067811865475" Oz="2.775557561562891e-16"/>
+      <PropertyPlacement Px="16.79999999999999" Py="-7.349676423018518e-15" Pz="0.5000000000000093" Q0="0.7071067811865477" Q1="0.7071067811865474" Q2="0" Q3="1.110223024625157e-16" A="3.141592653589793" Ox="0.7071067811865477" Oy="0.7071067811865474" Oz="0"/>
     </Property>
     <Property name="Shape" type="Part::PropertyPartShape">
       <Part ElementMap="0.15.70200.4" brep="1">
@@ -181,9 +181,9 @@
 CASCADE Topology V1, (c) Matra-Datavision
 Locations 1
 1
-2.22044604925031e-16               1 7.06541606407699e-16            16.8 
-              1 -2.22044604925031e-16 7.85046229341887e-17 -7.5162098767123e-15 
-7.85046229341889e-17 7.06541606407699e-16              -1 0.500000000000009 
+4.44089209850063e-16               1 1.57009245868377e-16            16.8 
+              1 -4.44089209850063e-16 -1.57009245868378e-16 -7.34967642301852e-15 
+-1.57009245868377e-16 1.57009245868378e-16              -1 0.500000000000009 
 Curve2ds 0
 Curves 8
 1 -6.4300000000248652 0 0 1 0 0 

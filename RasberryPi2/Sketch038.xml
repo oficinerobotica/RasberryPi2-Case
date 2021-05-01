@@ -85,7 +85,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="13" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Chamfer006.;#73fc;:H4b9,E"/>
           </GeoExtensions>
-          <LineSegment StartX="16.90000000000001" StartY="-7.749999999999988" StartZ="1e-16" EndX="16.9" EndY="7.350000000000029" EndZ="-1e-16"/>
+          <LineSegment StartX="16.90000000000001" StartY="-7.749999999999988" StartZ="1e-16" EndX="16.9" EndY="7.350000000000028" EndZ="-1e-16"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
@@ -202,7 +202,7 @@
       <Bool value="false"/>
     </Property>
     <Property name="Placement" type="App::PropertyPlacement" status="8388612">
-      <PropertyPlacement Px="0" Py="0" Pz="0" Q0="0.7071067811865476" Q1="0" Q2="0" Q3="0.7071067811865475" A="1.570796326794897" Ox="1" Oy="0" Oz="0"/>
+      <PropertyPlacement Px="0" Py="0" Pz="0" Q0="0.7071067811865477" Q1="0" Q2="0" Q3="0.7071067811865474" A="1.570796326794897" Ox="1" Oy="0" Oz="0"/>
     </Property>
     <Property name="Shape" type="Part::PropertyPartShape">
       <Part ElementMap="0.15.70200.4" brep="1">

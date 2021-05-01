@@ -36,7 +36,7 @@
         <Link value="Pocket007"/>
       </LinkList>
     </Property>
-    <Property name="Label" type="App::PropertyString" status="134217729">
+    <Property name="Label" type="App::PropertyString" status="134217728">
       <String value="MicroSDSocket"/>
     </Property>
     <Property name="Label2" type="App::PropertyString" status="128">
