@@ -45,7 +45,7 @@
       <Link value="Origin002"/>
     </Property>
     <Property name="Placement" type="App::PropertyPlacement" status="8388608">
-      <PropertyPlacement Px="0" Py="0" Pz="-0.3" Q0="0" Q1="0" Q2="0" Q3="1" A="0" Ox="0" Oy="0" Oz="1"/>
+      <PropertyPlacement Px="0" Py="0" Pz="0" Q0="0" Q1="0" Q2="0" Q3="1" A="0" Ox="0" Oy="0" Oz="1"/>
     </Property>
     <Property name="Shape" type="Part::PropertyPartShape">
       <Part HasherIndex="0" ElementMap="1.15.70200.4" brep="1">
@@ -56,7 +56,7 @@ Locations 65
 1
               1               0               0               0 
               0               1               0               0 
-              0               0               1            -0.3 
+              0               0               1               0 
 1
               1               0               0               0 
               0               1               0               0 
@@ -1197,9 +1197,9 @@ Vertex
 ;:U4;RFI;:H4a6:8,E
 ;:U;RFI;:H4a6:7,E
 ;:U;RFI;:H4a6:7,V
-;:L#15bba;RFI;:H4a6:d,F
-;:L#15bbb;RFI;:H4a6:d,F
-;:L#15bbc;RFI;:H4a6:d,F
+;:L#161e8;RFI;:H4a6:d,F
+;:L#161e9;RFI;:H4a6:d,F
+;:L#161ea;RFI;:H4a6:d,F
 ;:L#71ac;RFI;:H4a6:c,E
 ;:L#71af;RFI;:H4a6:c,E
 ;:L#71b1;RFI;:H4a6:c,E

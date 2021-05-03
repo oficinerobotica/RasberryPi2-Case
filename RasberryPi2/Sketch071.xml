@@ -75,7 +75,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="9" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Mirrored009.;#1530e;:H53a,E"/>
           </GeoExtensions>
-          <LineSegment StartX="7.950000000000006" StartY="-6.475000000000037" StartZ="1.804112415014751e-17" EndX="-7.950000000000024" EndY="-6.474999999999989" EndZ="-4.163336342335028e-18"/>
+          <LineSegment StartX="7.950000000000006" StartY="-6.475000000000037" StartZ="0" EndX="-7.950000000000024" EndY="-6.474999999999989" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>

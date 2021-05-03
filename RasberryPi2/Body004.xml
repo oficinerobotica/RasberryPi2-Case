@@ -49,7 +49,7 @@
       <Link value="Origin006"/>
     </Property>
     <Property name="Placement" type="App::PropertyPlacement" status="8388608">
-      <PropertyPlacement Px="2.7" Py="-16.55" Pz="1.95" Q0="0" Q1="0" Q2="0" Q3="1" A="0" Ox="0" Oy="0" Oz="1"/>
+      <PropertyPlacement Px="2.7" Py="-16.55" Pz="2.25" Q0="0" Q1="0" Q2="0" Q3="1" A="0" Ox="0" Oy="0" Oz="1"/>
     </Property>
     <Property name="Shape" type="Part::PropertyPartShape">
       <Part HasherIndex="0" ElementMap="1.15.70200.4" brep="1">
@@ -60,7 +60,7 @@ Locations 59
 1
               1               0               0             2.7 
               0               1               0          -16.55 
-              0               0               1            1.95 
+              0               0               1            2.25 
 1
               1               0               0               0 
               0               0              -1               0 

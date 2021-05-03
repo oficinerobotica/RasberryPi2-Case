@@ -74,7 +74,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="9" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pocket023.;#d820;:H-4f8,E"/>
           </GeoExtensions>
-          <LineSegment StartX="6.249999999999988" StartY="-0.8999999999999844" StartZ="-5.551115123125783e-17" EndX="6.450000000000175" EndY="-0.8999999999999844" EndZ="5.551115123125783e-17"/>
+          <LineSegment StartX="6.249999999999988" StartY="-0.8999999999999844" StartZ="-1e-16" EndX="6.450000000000175" EndY="-0.8999999999999844" EndZ="1e-16"/>
           <Construction value="1"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="10" ref="Pocket023.;#d81d;:H-4f8,E" migrated="1">
@@ -82,7 +82,7 @@
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="10" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
             <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Pocket023.;#d81d;:H-4f8,E"/>
           </GeoExtensions>
-          <LineSegment StartX="-6.450000000000149" StartY="-0.8999999999999808" StartZ="-5.551115123125783e-17" EndX="-6.250000000000036" EndY="-0.8999999999999808" EndZ="0"/>
+          <LineSegment StartX="-6.450000000000149" StartY="-0.8999999999999808" StartZ="-1e-16" EndX="-6.250000000000036" EndY="-0.8999999999999808" EndZ="0"/>
           <Construction value="1"/>
         </Geometry>
       </GeometryList>
@@ -172,7 +172,7 @@
       <Bool value="false"/>
     </Property>
     <Property name="Placement" type="App::PropertyPlacement" status="8388612">
-      <PropertyPlacement Px="16.79999999999999" Py="-7.349676423018518e-15" Pz="0.5000000000000093" Q0="0.7071067811865477" Q1="0.7071067811865474" Q2="0" Q3="1.110223024625157e-16" A="3.141592653589793" Ox="0.7071067811865477" Oy="0.7071067811865474" Oz="0"/>
+      <PropertyPlacement Px="16.79999999999999" Py="1.110223024625157e-16" Pz="0.5000000000000037" Q0="0.7071067811865476" Q1="0.7071067811865476" Q2="-1.665334536937735e-16" Q3="-5.551115123125784e-17" A="3.141592653589794" Ox="0.7071067811865476" Oy="0.7071067811865476" Oz="-1.665334536937735e-16"/>
     </Property>
     <Property name="Shape" type="Part::PropertyPartShape">
       <Part ElementMap="0.15.70200.4" brep="1">
@@ -181,9 +181,9 @@
 CASCADE Topology V1, (c) Matra-Datavision
 Locations 1
 1
-4.44089209850063e-16               1 1.57009245868377e-16            16.8 
-              1 -4.44089209850063e-16 -1.57009245868378e-16 -7.34967642301852e-15 
--1.57009245868377e-16 1.57009245868378e-16              -1 0.500000000000009 
+-2.22044604925031e-16               1 -3.14018491736755e-16            16.8 
+              1 2.22044604925031e-16 -1.57009245868378e-16 1.11022302462516e-16 
+-1.57009245868378e-16 -3.14018491736755e-16              -1 0.500000000000004 
 Curve2ds 0
 Curves 8
 1 -6.4300000000248652 0 0 1 0 0 
@@ -201,14 +201,14 @@ Triangulations 0
 
 TShapes 17
 Ve
-1.00000010660454e-07
+1.00000011e-07
 -6.43000000002487 0 0
 0 0
 
 0101101
 *
 Ve
-1.00000010660454e-07
+1.00000011e-07
 6.42999999999999 0 0
 0 0
 
@@ -250,7 +250,7 @@ Ed
 0101000
 +14 0 -12 0 *
 Ve
-1.00000000013878e-07
+1e-07
 6.24999999999999 -0.18 0
 0 0
 
