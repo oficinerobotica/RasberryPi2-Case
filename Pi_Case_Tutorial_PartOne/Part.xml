@@ -20,7 +20,8 @@
       <ExpressionEngine count="0"></ExpressionEngine>
     </Property>
     <Property name="Group" type="App::PropertyLinkList">
-      <LinkList count="1">
+      <LinkList count="2">
+        <Link value="Part001"/>
         <Link value="Body014"/>
       </LinkList>
     </Property>
@@ -63,7 +64,8 @@
       <Bool value="true"/>
     </Property>
     <Property name="_ExportChildren" type="App::PropertyLinkList" status="218104320">
-      <LinkList count="1">
+      <LinkList count="2">
+        <Link value="Part001"/>
         <Link value="Body014"/>
       </LinkList>
     </Property>

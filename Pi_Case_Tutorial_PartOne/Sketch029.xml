@@ -125,8 +125,8 @@ CASCADE Topology V1, (c) Matra-Datavision
 Locations 1
 1
               1               0               0               0 
-              0           1e-15              -1           -1.17 
-              0               1           1e-15           1e-15 
+              0 7.7715611723761e-16              -1           -1.17 
+              0               1 7.7715611723761e-16 7.01999999999997e-16 
 Curve2ds 0
 Curves 4
 1 -1.75 0.62 0 1 0 0 

@@ -5,7 +5,8 @@
 <Document SchemaVersion="1" FileVersion="2" Split="1" HasExpansion="1">
 <Expand  count="1">
   <Expand name="Part" count="1">
-    <Expand name="Body014" count="1">
+    <Expand name="Body014" count="2">
+      <Expand name="Pocket034"/>
       <Expand name="Pocket037"/>
     </Expand>
   </Expand>
@@ -15,13 +16,13 @@
 <![CDATA[
 OrthographicCamera {
   viewportMapping ADJUST_CAMERA
-  position 40.967487 -44.729652 51.567516
+  position 32.801498 -32.801479 45.301483
   orientation 0.74290609 0.30772209 0.59447283  1.2171158
-  nearDistance -144.04062
-  farDistance 289.11679
+  nearDistance -159.24446
+  farDistance 273.88251
   aspectRatio 1
-  focalDistance 53.438885
-  height 95.90506
+  focalDistance 56.813839
+  height 113.62768
 
 }
 ## overrideMode: Shadow]]>

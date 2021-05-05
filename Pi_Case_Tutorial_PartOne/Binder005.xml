@@ -282,14 +282,14 @@ EndMap
     <Property name="Support" type="App::PropertyXLinkSubList">
       <XLinkSubList count="1">
         <XLink file="" stamp="" name="Pocket037" count="4">
-          <Sub value="Edge55" shadowed=";#16ec7;:H564,E.Edge55"/>
+          <Sub value="Edge59" shadowed=";#16ec7;:H564,E.Edge59"/>
           <Sub value="Edge13" shadowed=";#16ea0;:H564,E.Edge13"/>
           <Sub value="Edge4" shadowed=";#16e9b;:H564,E.Edge4"/>
           <Sub value="Edge10" shadowed=";#16e9e;:H564,E.Edge10"/>
         </XLink>
       </XLinkSubList>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="false"/>
     </Property>
     <Property name="_Version" type="App::PropertyInteger" status="83886080">

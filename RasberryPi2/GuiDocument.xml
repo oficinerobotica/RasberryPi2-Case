@@ -4,21 +4,17 @@
 -->
 <Document SchemaVersion="1" FileVersion="2" Split="1" HasExpansion="1">
 <Expand  count="1">
-  <Expand name="Part" count="1">
-    <Expand name="Body014" count="1">
-      <Expand name="Pocket037"/>
-    </Expand>
-  </Expand>
+  <Expand name="Part001"/>
 </Expand>
 >
-  <Camera extra="0" id="3" binding="0">
+  <Camera extra="0" id="2" binding="0">
 <![CDATA[
 OrthographicCamera {
   viewportMapping ADJUST_CAMERA
   position 40.967487 -44.729652 51.567516
-  orientation 0.74290609 0.30772209 0.59447283  1.2171158
-  nearDistance -144.04068
-  farDistance 289.11673
+  orientation 0.74290603 0.30772206 0.59447277  1.2171158
+  nearDistance -85.23455
+  farDistance 237.30556
   aspectRatio 1
   focalDistance 53.438885
   height 95.90506

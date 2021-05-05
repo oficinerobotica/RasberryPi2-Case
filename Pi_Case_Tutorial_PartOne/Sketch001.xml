@@ -84,7 +84,7 @@
           <GeoExtensions count="1">
             <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
           </GeoExtensions>
-          <LineSegment StartX="-1.267902779884059" StartY="1.5" StartZ="0" EndX="-0.6000000000000001" EndY="2.496948281819646" EndZ="0"/>
+          <LineSegment StartX="-1.267902779884059" StartY="1.5" StartZ="0" EndX="-0.6" EndY="2.496948281819646" EndZ="0"/>
           <Construction value="0"/>
         </Geometry>
         <Geometry type="Part::GeomLineSegment" id="2" migrated="1">

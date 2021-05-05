@@ -19,7 +19,7 @@
     <Property name="Role" type="App::PropertyString" status="16777216">
       <String value="Z_Axis"/>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="649">
+    <Property name="Visibility" type="App::PropertyBool" status="648">
       <Bool value="true"/>
     </Property>
   </Properties>
