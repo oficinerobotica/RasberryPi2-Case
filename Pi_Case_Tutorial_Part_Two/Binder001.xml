@@ -1385,7 +1385,7 @@ EndMap
         <XLink file="" stamp="" name="Part001" sub="Body."/>
       </XLinkSubList>
     </Property>
-    <Property name="Visibility" type="App::PropertyBool" status="648">
+    <Property name="Visibility" type="App::PropertyBool" status="649">
       <Bool value="false"/>
     </Property>
     <Property name="_Version" type="App::PropertyInteger" status="83886080">

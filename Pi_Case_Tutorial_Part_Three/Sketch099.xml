@@ -1,0 +1,1100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- FreeCAD DocumentObject -->
+<Document SchemaVersion="4" FileVersion="2">
+<Object name="Sketch099" Extensions="True">
+  <Extensions Count="1">
+    <Extension type="Part::AttachExtension" name="AttachExtension">
+    </Extension>
+  </Extensions>
+  <Properties Count="19" TransientCount="1">
+    <_Property name="_ElementMapVersion" type="App::PropertyString" status="234881024"/>
+    <Property name="AttacherType" type="App::PropertyString" status="8">
+      <String value="Attacher::AttachEnginePlane"/>
+    </Property>
+    <Property name="AttachmentOffset" type="App::PropertyPlacement">
+      <PropertyPlacement Px="0" Py="0" Pz="0" Q0="0" Q1="0" Q2="0" Q3="1" A="0" Ox="0" Oy="0" Oz="1"/>
+    </Property>
+    <Property name="ColoredElements" type="App::PropertyLinkSubHidden" status="218103808">
+      <LinkSub value="" count="0">
+      </LinkSub>
+    </Property>
+    <Property name="Constraints" type="Sketcher::PropertyConstraintList">
+      <ConstraintList count="41">
+        <Constrain Name="" Type="1" Value="0" First="0" FirstPos="2" Second="1" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="1" FirstPos="2" Second="2" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="2" FirstPos="2" Second="3" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="3" FirstPos="2" Second="0" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="2" Value="0" First="0" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="2" Value="0" First="2" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="3" Value="0" First="1" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="3" Value="0" First="3" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="4" FirstPos="2" Second="5" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="5" FirstPos="2" Second="6" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="6" FirstPos="2" Second="7" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="7" FirstPos="2" Second="4" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="2" Value="0" First="4" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="3" Value="0" First="5" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="3" Value="0" First="7" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="13" Value="0" First="4" FirstPos="1" Second="-5" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="5" FirstPos="2" Second="-4" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="8" FirstPos="2" Second="9" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="9" FirstPos="2" Second="10" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="10" FirstPos="2" Second="11" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="11" FirstPos="2" Second="8" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="2" Value="0" First="8" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="3" Value="0" First="9" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="3" Value="0" First="11" FirstPos="0" Second="-2000" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="13" Value="0" First="8" FirstPos="1" Second="-5" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="9" FirstPos="2" Second="-3" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="10" FirstPos="2" Second="-3" SecondPos="2" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="6" FirstPos="2" Second="-4" SecondPos="2" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="13" Value="0" First="0" FirstPos="2" Second="11" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="7" Value="1.400000000000002" First="6" FirstPos="2" Second="6" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="1.049713730812073" LabelPosition="0" IsDriving="0" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="8" Value="1.4" First="3" FirstPos="1" Second="3" SecondPos="2" Third="-2000" ThirdPos="0" LabelDistance="1.049713730812073" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="13" Value="0" First="0" FirstPos="1" Second="5" SecondPos="0" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="8" Value="3" First="6" FirstPos="1" Second="2" SecondPos="2" Third="-2000" ThirdPos="0" LabelDistance="1.049713730812073" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="12" FirstPos="1" Second="4" SecondPos="2" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="12" FirstPos="2" Second="0" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="13" FirstPos="1" Second="2" SecondPos="2" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="13" FirstPos="2" Second="6" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="14" FirstPos="1" Second="8" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="14" FirstPos="2" Second="0" SecondPos="2" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="15" FirstPos="1" Second="2" SecondPos="1" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+        <Constrain Name="" Type="1" Value="0" First="15" FirstPos="2" Second="10" SecondPos="2" Third="-2000" ThirdPos="0" LabelDistance="10" LabelPosition="0" IsDriving="1" IsInVirtualSpace="0" IsActive="1" />
+      </ConstraintList>
+    </Property>
+    <Property name="Exports" type="App::PropertyLinkListHidden" status="67108864">
+      <LinkList count="0">
+      </LinkList>
+    </Property>
+    <Property name="ExpressionEngine" type="App::PropertyExpressionEngine" status="67108864">
+      <ExpressionEngine count="0"></ExpressionEngine>
+    </Property>
+    <Property name="ExternalGeo" type="Part::PropertyGeometryList" status="67108864">
+      <GeometryList count="5">
+        <Geometry type="Part::GeomLineSegment" id="-1" migrated="1">
+          <GeoExtensions count="2">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="-1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension"/>
+          </GeoExtensions>
+          <LineSegment StartX="0" StartY="0" StartZ="0" EndX="1" EndY="0" EndZ="0"/>
+          <Construction value="1"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="-2" migrated="1">
+          <GeoExtensions count="2">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="-2" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension"/>
+          </GeoExtensions>
+          <LineSegment StartX="0" StartY="0" StartZ="0" EndX="0" EndY="1" EndZ="0"/>
+          <Construction value="1"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="1" ref="Fillet038.;#22f14;:H646,E" migrated="1">
+          <GeoExtensions count="2">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="1" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Fillet038.;#22f14;:H646,E"/>
+          </GeoExtensions>
+          <LineSegment StartX="9" StartY="15.57866933883082" StartZ="0" EndX="7.6" EndY="15.57866933883082" EndZ="0"/>
+          <Construction value="1"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="2" ref="Fillet038.;#22f10;:H646,E" migrated="1">
+          <GeoExtensions count="2">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="2" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Fillet038.;#22f10;:H646,E"/>
+          </GeoExtensions>
+          <LineSegment StartX="-27.6" StartY="15.57866933883085" StartZ="0" EndX="-29.00000000000001" EndY="15.57866933883085" EndZ="0"/>
+          <Construction value="1"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="7" ref="Fillet038.;#22f1b;:H646,E" migrated="1">
+          <GeoExtensions count="2">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="7" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
+            <GeoExtension type="Sketcher::ExternalGeometryExtension" Ref="Fillet038.;#22f1b;:H646,E"/>
+          </GeoExtensions>
+          <LineSegment StartX="-35.5" StartY="23" StartZ="0" EndX="15.5" EndY="23" EndZ="0"/>
+          <Construction value="1"/>
+        </Geometry>
+      </GeometryList>
+    </Property>
+    <Property name="ExternalGeometry" type="App::PropertyLinkSubList" status="16777216">
+      <LinkSubList count="3">
+        <Link obj="Fillet038" sub="Edge68" shadowed=";#22f14;:H646,E.Edge68"/>
+        <Link obj="Fillet038" sub="Edge29" shadowed=";#22f10;:H646,E.Edge29"/>
+        <Link obj="Fillet038" sub="Edge75" shadowed=";#22f1b;:H646,E.Edge75"/>
+      </LinkSubList>
+    </Property>
+    <Property name="FullyConstrained" type="App::PropertyBool" status="218103808">
+      <Bool value="true"/>
+    </Property>
+    <Property name="Geometry" type="Part::PropertyGeometryList" status="8192">
+      <GeometryList count="16">
+        <Geometry type="Part::GeomLineSegment" id="3" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="3" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
+          <LineSegment StartX="-27.6" StartY="19.97866933883085" StartZ="0" EndX="7.600000000000001" EndY="19.97866933883085" EndZ="0"/>
+          <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="4" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="4" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
+          </GeoExtensions>
+          <LineSegment StartX="7.600000000000001" StartY="19.97866933883085" StartZ="0" EndX="7.600000000000001" EndY="18.57866933883085" EndZ="0"/>
+          <Construction value="1"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="5" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="5" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
+          <LineSegment StartX="7.600000000000001" StartY="18.57866933883085" StartZ="0" EndX="-27.6" EndY="18.57866933883085" EndZ="0"/>
+          <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="6" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="6" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
+          </GeoExtensions>
+          <LineSegment StartX="-27.6" StartY="18.57866933883085" StartZ="0" EndX="-27.6" EndY="19.97866933883085" EndZ="0"/>
+          <Construction value="1"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="8" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="8" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
+          <LineSegment StartX="-29.00000000000001" StartY="23" StartZ="0" EndX="-27.6" EndY="23" EndZ="0"/>
+          <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="9" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="9" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
+          </GeoExtensions>
+          <LineSegment StartX="-27.6" StartY="23" StartZ="0" EndX="-27.6" EndY="15.57866933883085" EndZ="0"/>
+          <Construction value="1"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="10" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="10" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
+          <LineSegment StartX="-27.6" StartY="15.57866933883085" StartZ="0" EndX="-29.00000000000001" EndY="15.57866933883085" EndZ="0"/>
+          <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="11" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="11" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
+          <LineSegment StartX="-29.00000000000001" StartY="15.57866933883085" StartZ="0" EndX="-29.00000000000001" EndY="23" EndZ="0"/>
+          <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="12" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="12" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
+          <LineSegment StartX="7.6" StartY="23" StartZ="0" EndX="9" EndY="23" EndZ="0"/>
+          <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="13" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="13" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
+          <LineSegment StartX="9" StartY="23" StartZ="0" EndX="9" EndY="15.57866933883082" EndZ="0"/>
+          <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="14" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="14" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
+          <LineSegment StartX="9" StartY="15.57866933883082" StartZ="0" EndX="7.6" EndY="15.57866933883082" EndZ="0"/>
+          <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="15" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="15" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000010"/>
+          </GeoExtensions>
+          <LineSegment StartX="7.6" StartY="15.57866933883082" StartZ="0" EndX="7.6" EndY="23" EndZ="0"/>
+          <Construction value="1"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="16" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="16" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
+          <LineSegment StartX="-27.6" StartY="23" StartZ="0" EndX="-27.6" EndY="19.97866933883085" EndZ="0"/>
+          <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="17" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="17" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
+          <LineSegment StartX="-27.6" StartY="18.57866933883085" StartZ="0" EndX="-27.6" EndY="15.57866933883085" EndZ="0"/>
+          <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="18" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="18" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
+          <LineSegment StartX="7.6" StartY="23" StartZ="0" EndX="7.600000000000001" EndY="19.97866933883085" EndZ="0"/>
+          <Construction value="0"/>
+        </Geometry>
+        <Geometry type="Part::GeomLineSegment" id="19" migrated="1">
+          <GeoExtensions count="1">
+            <GeoExtension type="Sketcher::SketchGeometryExtension" id="19" internalGeometryType="0" geometryModeFlags="00000000000000000000000000000000"/>
+          </GeoExtensions>
+          <LineSegment StartX="7.600000000000001" StartY="18.57866933883085" StartZ="0" EndX="7.6" EndY="15.57866933883082" EndZ="0"/>
+          <Construction value="0"/>
+        </Geometry>
+      </GeometryList>
+    </Property>
+    <Property name="Label" type="App::PropertyString" status="134217728">
+      <String value="Sketch099"/>
+    </Property>
+    <Property name="Label2" type="App::PropertyString" status="128">
+      <String value=""/>
+    </Property>
+    <Property name="MapMode" type="App::PropertyEnumeration">
+      <Integer value="5"/>
+    </Property>
+    <Property name="MapPathParameter" type="App::PropertyFloat" status="8">
+      <Float value="0"/>
+    </Property>
+    <Property name="MapReversed" type="App::PropertyBool">
+      <Bool value="false"/>
+    </Property>
+    <Property name="Placement" type="App::PropertyPlacement" status="8388612">
+      <PropertyPlacement Px="0" Py="30" Pz="0" Q0="0.7071067811865475" Q1="0" Q2="0" Q3="0.7071067811865476" A="1.570796326794897" Ox="1" Oy="0" Oz="0"/>
+    </Property>
+    <Property name="Shape" type="Part::PropertyPartShape">
+      <Part ElementMap="0.15.70200.4" brep="1">
+<![CDATA[
+
+CASCADE Topology V1, (c) Matra-Datavision
+Locations 76
+1
+              1               0               0               0 
+              0 2.22044604925031e-16              -1              30 
+              0               1 2.22044604925031e-16               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0 2.22044604925031e-16              -1              30 
+              0               1 2.22044604925031e-16               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+2  2 1 3 -1 4 -1 0
+1
+              1               0               0               0 
+              0               1               0             -10 
+              0               0               1 2.22044604925031e-15 
+2  6 -1 2 1 3 -1 4 -1 0
+2  3 -1 4 -1 0
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+2  9 1 10 1 11 -1 12 1 13 -1 14 1 15 -1 16 1 17 -1 18 1 19 -1 20 1 21 -1 22 1 23 1 24 1 25 1 26 1 27 1 28 1 29 1 30 1 31 -1 32 1 33 -1 34 1 35 -1 36 1 37 -1 38 1 39 -1 40 1 41 -1 42 1 43 -1 44 1 45 1 3 -1 4 -1 0
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0 2.22044604925031e-16              -1              30 
+              0               1 2.22044604925031e-16               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+2  47 1 48 -1 49 -1 0
+1
+              1               0               0               0 
+              0               1               0             -12 
+              0               0               1 2.66453525910038e-15 
+2  51 -1 47 1 48 -1 49 -1 0
+2  48 -1 49 -1 0
+2  9 1 10 1 11 -1 12 1 13 -1 14 1 15 -1 16 1 17 -1 18 1 19 -1 20 1 21 -1 22 1 23 1 24 1 25 1 26 1 27 1 28 1 29 1 30 1 31 -1 32 1 33 -1 34 1 35 -1 36 1 37 -1 38 1 39 -1 40 1 41 -1 42 1 43 -1 44 1 45 1 48 -1 49 -1 0
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0 2.22044604925031e-16              -1              30 
+              0               1 2.22044604925031e-16               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+2  55 1 56 -1 57 -1 0
+1
+              1               0               0               0 
+              0               1               0             -12 
+              0               0               1 2.66453525910038e-15 
+2  59 -1 55 1 56 -1 57 -1 0
+2  56 -1 57 -1 0
+2  9 1 10 1 11 -1 12 1 13 -1 14 1 15 -1 16 1 17 -1 18 1 19 -1 20 1 21 -1 22 1 23 1 24 1 25 1 26 1 27 1 28 1 29 1 30 1 31 -1 32 1 33 -1 34 1 35 -1 36 1 37 -1 38 1 39 -1 40 1 41 -1 42 1 43 -1 44 1 45 1 56 -1 57 -1 0
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0              -0 
+              0               1               0              -0 
+              0               0               1              -2 
+2  63 1 64 1 21 -1 65 1 22 1 23 1 24 1 25 1 26 1 27 1 28 1 29 1 30 1 31 -1 32 1 33 -1 34 1 35 -1 36 1 37 -1 38 1 39 -1 40 1 41 -1 42 1 43 -1 44 1 45 1 3 -1 4 -1 0
+2  63 1 64 1 21 -1 65 1 22 1 23 1 24 1 25 1 26 1 27 1 28 1 29 1 30 1 31 -1 32 1 33 -1 34 1 35 -1 36 1 37 -1 38 1 39 -1 40 1 41 -1 42 1 43 -1 44 1 45 1 2 -1 6 -1 2 1 3 -1 4 -1 0
+2  63 1 64 1 21 -1 65 1 22 1 23 1 24 1 25 1 26 1 27 1 28 1 29 1 30 1 31 -1 32 1 33 -1 34 1 35 -1 36 1 37 -1 38 1 39 -1 40 1 41 -1 42 1 43 -1 44 1 45 1 48 -1 49 -1 0
+2  63 1 64 1 21 -1 65 1 22 1 23 1 24 1 25 1 26 1 27 1 28 1 29 1 30 1 31 -1 32 1 33 -1 34 1 35 -1 36 1 37 -1 38 1 39 -1 40 1 41 -1 42 1 43 -1 44 1 45 1 47 -1 51 -1 47 1 48 -1 49 -1 0
+2  63 1 64 1 21 -1 65 1 22 1 23 1 24 1 25 1 26 1 27 1 28 1 29 1 30 1 31 -1 32 1 33 -1 34 1 35 -1 36 1 37 -1 38 1 39 -1 40 1 41 -1 42 1 43 -1 44 1 45 1 56 -1 57 -1 0
+2  63 1 64 1 21 -1 65 1 22 1 23 1 24 1 25 1 26 1 27 1 28 1 29 1 30 1 31 -1 32 1 33 -1 34 1 35 -1 36 1 37 -1 38 1 39 -1 40 1 41 -1 42 1 43 -1 44 1 45 1 55 -1 59 -1 55 1 56 -1 57 -1 0
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+2  72 1 73 -1 59 -1 55 1 56 -1 57 -1 0
+1
+              1               0               0               0 
+              0               1               0               0 
+              0               0               1               0 
+2  75 1 73 -1 59 -1 55 1 56 -1 57 -1 0
+Curve2ds 142
+1 0 0 1 0 
+1 0 -10 1 0 
+1 -0.70365775818274656 17.599999999999994 0 -1 
+1 52.850000000000001 -18.578669338830849 -1 0 
+1 0 0 1 0 
+1 0 -12 1 0 
+1 -0.70365775818274656 17.599999999999994 0 -1 
+1 52.850000000000001 -18.578669338830849 -1 0 
+1 0 0 1 0 
+1 0 -12 1 0 
+1 -0.70365775818274656 17.599999999999994 0 -1 
+1 52.850000000000001 -18.578669338830849 -1 0 
+1 -0 0 1 0 
+1 -1.3322676295501878e-15 -10 1 0 
+1 -0.70365775818274656 -17.600000000000009 -1 -1.1842378929335002e-15 
+1 -0 0 1 0 
+1 -8.8817841970012523e-16 -12 1 0 
+1 -0.70365775818274656 -17.600000000000009 -1 -1.1842378929335002e-15 
+1 -0 0 1 0 
+1 -8.8817841970012523e-16 -12 1 0 
+1 -0.70365775818274656 -17.600000000000009 -1 -1.1842378929335002e-15 
+1 0 0 1 0 
+1 0 -10 1 0 
+1 -3.7036577581827466 -17.600000000000012 0 -1 
+1 0 0 1 0 
+1 0 -12 1 0 
+1 -3.7036577581827466 -17.600000000000012 0 -1 
+1 0 0 1 0 
+1 0 -12 1 0 
+1 -3.7036577581827466 -17.600000000000012 0 -1 
+1 0 0 1 0 
+1 -4.4408920985006262e-16 -10 1 0 
+1 -3.7036577581827466 -19.000000000000014 1 0 
+1 0 0 1 0 
+1 8.8817841970012523e-16 -12 1 0 
+1 -3.7036577581827466 -19.000000000000014 1 0 
+1 0 0 1 0 
+1 8.8817841970012523e-16 -12 1 0 
+1 -3.7036577581827466 -19.000000000000014 1 0 
+1 0 0 1 0 
+1 0 -10 1 0 
+1 3.7176729029864042 -19.000000000000014 0 1 
+1 16.249999999999993 -23 1 0 
+1 -29.000000000000007 30.000000000000004 1 0 
+1 -29.000000000000007 20.000000000000004 1 0 
+1 0 0 1 0 
+1 0 -12 1 0 
+1 3.7176729029864042 -19.000000000000014 0 1 
+1 16.249999999999993 -23 1 0 
+1 -29.000000000000007 30.000000000000004 1 0 
+1 -29.000000000000007 18.000000000000004 1 0 
+1 0 0 1 0 
+1 0 -12 1 0 
+1 3.7176729029864042 -19.000000000000014 0 1 
+1 16.249999999999993 -23 1 0 
+1 -29.000000000000007 30.000000000000004 1 0 
+1 -29.000000000000007 18.000000000000004 1 0 
+1 0 -38.000000000000007 0 1 
+1 1.7258590000000034 -38.000000000000007 0 1 
+1 0 -38.000000000000007 0 1 
+1 1.7258590000000034 -38.000000000000007 0 1 
+1 0 0 1 0 
+1 -1.3322676295501878e-15 -10 1 0 
+1 3.7176729029864042 -17.600000000000012 -1 1.1758771472652125e-15 
+1 17.649999999999995 -23 1.1758771472652125e-15 1 
+1 0 0 1 0 
+1 -8.8817841970012523e-16 -12 1 0 
+1 3.7176729029864042 -17.600000000000012 -1 1.1758771472652125e-15 
+1 17.649999999999995 -23 1.1758771472652125e-15 1 
+1 0 0 1 0 
+1 -8.8817841970012523e-16 -12 1 0 
+1 3.7176729029864042 -17.600000000000012 -1 1.1758771472652125e-15 
+1 17.649999999999995 -23 1.1758771472652125e-15 1 
+1 0 0 1 0 
+1 0 -10 1 0 
+1 0.69634224181725202 -17.600000000000009 0 1 
+1 17.649999999999999 -19.978669338830848 1 0 
+1 0 0 1 0 
+1 0 -12 1 0 
+1 0.69634224181725202 -17.600000000000009 0 1 
+1 17.649999999999999 -19.978669338830848 1 0 
+1 0 0 1 0 
+1 0 -12 1 0 
+1 0.69634224181725202 -17.600000000000009 0 1 
+1 17.649999999999999 -19.978669338830848 1 0 
+1 0 0 1 0 
+1 -1.3322676295501878e-15 -10 1 0 
+1 3.7176729029864042 17.599999999999994 -1 5.8793857363260626e-16 
+1 52.850000000000001 -23 5.8793857363260626e-16 1 
+1 0 0 1 0 
+1 -8.8817841970012523e-16 -12 1 0 
+1 3.7176729029864042 17.599999999999994 -1 5.8793857363260626e-16 
+1 52.850000000000001 -23 5.8793857363260626e-16 1 
+1 0 0 1 0 
+1 -8.8817841970012523e-16 -12 1 0 
+1 3.7176729029864042 17.599999999999994 -1 5.8793857363260626e-16 
+1 52.850000000000001 -23 5.8793857363260626e-16 1 
+1 0 0 1 0 
+1 0 -10 1 0 
+1 3.7176729029864042 17.599999999999994 0 1 
+1 52.850000000000001 -23 1 0 
+1 7.5999999999999996 30.000000000000004 1 0 
+1 7.5999999999999996 20.000000000000004 1 0 
+1 0 0 1 0 
+1 0 -12 1 0 
+1 3.7176729029864042 17.599999999999994 0 1 
+1 52.850000000000001 -23 1 0 
+1 7.5999999999999996 30.000000000000004 1 0 
+1 7.5999999999999996 18.000000000000004 1 0 
+1 0 0 1 0 
+1 0 -12 1 0 
+1 3.7176729029864042 17.599999999999994 0 1 
+1 52.850000000000001 -23 1 0 
+1 7.5999999999999996 30.000000000000004 1 0 
+1 7.5999999999999996 18.000000000000004 1 0 
+1 0 0 1 0 
+1 -1.3322676295501878e-15 -10 1 0 
+1 3.7176729029864042 18.999999999999993 -1 0 
+1 0 0 1 0 
+1 -8.8817841970012523e-16 -12 1 0 
+1 3.7176729029864042 18.999999999999993 -1 0 
+1 0 0 1 0 
+1 -8.8817841970012523e-16 -12 1 0 
+1 3.7176729029864042 18.999999999999993 -1 0 
+1 0 0 1 0 
+1 0 -10 1 0 
+1 -3.7036577581827785 18.999999999999993 0 -1 
+1 0 0 1 0 
+1 0 -12 1 0 
+1 -3.7036577581827785 18.999999999999993 0 -1 
+1 0 0 1 0 
+1 0 -12 1 0 
+1 -3.7036577581827785 18.999999999999993 0 -1 
+1 -0 0 1 0 
+1 -1.3322676295501878e-15 -10 1 0 
+1 -0.70365775818274656 17.599999999999994 -1 -5.9211894646674381e-16 
+1 -0 0 1 0 
+1 -8.8817841970012523e-16 -12 1 0 
+1 -0.70365775818274656 17.599999999999994 -1 -5.9211894646674381e-16 
+1 -0 0 1 0 
+1 -8.8817841970012523e-16 -12 1 0 
+1 -0.70365775818274656 17.599999999999994 -1 -5.9211894646674381e-16 
+Curves 12
+1 7.6000000000000014 18.578669338830849 0 -1 0 0 
+1 -27.600000000000001 18.578669338830849 0 -1.1842378929335002e-15 -1 0 
+1 -27.600000000000005 15.578669338830849 0 -1 0 0 
+1 -29.000000000000007 15.578669338830849 0 0 1 0 
+1 -29.000000000000007 23 0 1 0 0 
+1 -27.600000000000005 23 0 1.1758771472652125e-15 -1 0 
+1 -27.600000000000001 19.978669338830848 0 1 0 0 
+1 7.5999999999999996 23 0 5.8793857363260626e-16 -1 0 
+1 7.5999999999999996 23 0 1 0 0 
+1 9 23 0 0 -1 0 
+1 9 15.578669338830817 0 -1 0 0 
+1 7.6000000000000014 18.578669338830849 0 -5.9211894646674381e-16 -1 0 
+Polygon3D 0
+PolygonOnTriangulations 0
+Surfaces 45
+1 7.6000000000000014 30.000000000000004 18.578669338830849 -0 -2.2204460492503131e-16 -1 -1 0 0 0 1 -2.2204460492503131e-16 
+1 -9.9999999999999929 30.000000000000004 19.282327097013596 0 1 0 0 -0 1 1 0 -0 
+1 -45.25 30 0 0 1 0 1 0 0 0 0 -1 
+1 7.6000000000000014 30.000000000000004 18.578669338830849 -0 -2.2204460492503131e-16 -1 -1 0 0 0 1 -2.2204460492503131e-16 
+1 -9.9999999999999929 30.000000000000004 19.282327097013596 0 1 0 0 -0 1 1 0 -0 
+1 7.6000000000000014 30.000000000000004 18.578669338830849 -0 -2.2204460492503131e-16 -1 -1 0 0 0 1 -2.2204460492503131e-16 
+1 -9.9999999999999929 30.000000000000004 19.282327097013596 0 1 0 0 -0 1 1 0 -0 
+1 -27.600000000000001 30.000000000000004 18.578669338830849 1 -2.6295363507367059e-31 -1.1842378929335002e-15 -1.1842378929335002e-15 -2.2204460492503131e-16 -1 0 1 -2.2204460492503131e-16 
+1 -27.600000000000001 30.000000000000004 18.578669338830849 1 -2.6295363507367059e-31 -1.1842378929335002e-15 -1.1842378929335002e-15 -2.2204460492503131e-16 -1 0 1 -2.2204460492503131e-16 
+1 -27.600000000000001 30.000000000000004 18.578669338830849 1 -2.6295363507367059e-31 -1.1842378929335002e-15 -1.1842378929335002e-15 -2.2204460492503131e-16 -1 0 1 -2.2204460492503131e-16 
+1 -27.600000000000005 30.000000000000004 15.578669338830849 -0 -2.2204460492503131e-16 -1 -1 0 0 0 1 -2.2204460492503131e-16 
+1 -27.600000000000005 30.000000000000004 15.578669338830849 -0 -2.2204460492503131e-16 -1 -1 0 0 0 1 -2.2204460492503131e-16 
+1 -27.600000000000005 30.000000000000004 15.578669338830849 -0 -2.2204460492503131e-16 -1 -1 0 0 0 1 -2.2204460492503131e-16 
+1 -29.000000000000007 30.000000000000004 15.578669338830849 -1 0 0 0 2.2204460492503131e-16 1 0 1 -2.2204460492503131e-16 
+1 -29.000000000000007 30.000000000000004 15.578669338830849 -1 0 0 0 2.2204460492503131e-16 1 0 1 -2.2204460492503131e-16 
+1 -29.000000000000007 30.000000000000004 15.578669338830849 -1 0 0 0 2.2204460492503131e-16 1 0 1 -2.2204460492503131e-16 
+1 -29.000000000000007 30.000000000000004 23 -0 2.2204460492503131e-16 1 1 0 0 0 1 -2.2204460492503131e-16 
+1 0 0 25 0 0 1 1 0 -0 -0 1 0 
+1 -29.000000000000007 30.000000000000004 23 -0 2.2204460492503131e-16 1 1 0 0 0 1 -2.2204460492503131e-16 
+1 -29.000000000000007 30.000000000000004 23 -0 2.2204460492503131e-16 1 1 0 0 0 1 -2.2204460492503131e-16 
+1 9 18.000000000000004 23.000000000000004 0 -1 0 0 0 -1 1 0 0 
+1 9 16.274141 23.000000000000004 0 0 -1 0 1 0 1 -0 0 
+1 9 18.000000000000004 23.000000000000004 0 -1 0 0 0 -1 1 0 0 
+1 9 16.274141 23.000000000000004 0 0 -1 0 1 0 1 -0 0 
+1 -27.600000000000005 30.000000000000004 23 1 2.6109717660487697e-31 1.1758771472652125e-15 1.1758771472652125e-15 -2.2204460492503131e-16 -1 0 1 -2.2204460492503131e-16 
+1 -27.600000000000005 30.000000000000004 23 1 2.6109717660487697e-31 1.1758771472652125e-15 1.1758771472652125e-15 -2.2204460492503131e-16 -1 0 1 -2.2204460492503131e-16 
+1 -27.600000000000005 30.000000000000004 23 1 2.6109717660487697e-31 1.1758771472652125e-15 1.1758771472652125e-15 -2.2204460492503131e-16 -1 0 1 -2.2204460492503131e-16 
+1 -27.600000000000001 30.000000000000004 19.978669338830848 -0 2.2204460492503131e-16 1 1 0 0 0 1 -2.2204460492503131e-16 
+1 -27.600000000000001 30.000000000000004 19.978669338830848 -0 2.2204460492503131e-16 1 1 0 0 0 1 -2.2204460492503131e-16 
+1 -27.600000000000001 30.000000000000004 19.978669338830848 -0 2.2204460492503131e-16 1 1 0 0 0 1 -2.2204460492503131e-16 
+1 7.5999999999999996 30.000000000000004 23 1 1.3054858830243849e-31 5.8793857363260626e-16 5.8793857363260626e-16 -2.2204460492503131e-16 -1 0 1 -2.2204460492503131e-16 
+1 7.5999999999999996 30.000000000000004 23 1 1.3054858830243849e-31 5.8793857363260626e-16 5.8793857363260626e-16 -2.2204460492503131e-16 -1 0 1 -2.2204460492503131e-16 
+1 7.5999999999999996 30.000000000000004 23 1 1.3054858830243849e-31 5.8793857363260626e-16 5.8793857363260626e-16 -2.2204460492503131e-16 -1 0 1 -2.2204460492503131e-16 
+1 7.5999999999999996 30.000000000000004 23 -0 2.2204460492503131e-16 1 1 0 0 0 1 -2.2204460492503131e-16 
+1 7.5999999999999996 30.000000000000004 23 -0 2.2204460492503131e-16 1 1 0 0 0 1 -2.2204460492503131e-16 
+1 7.5999999999999996 30.000000000000004 23 -0 2.2204460492503131e-16 1 1 0 0 0 1 -2.2204460492503131e-16 
+1 9 30.000000000000004 23 1 0 0 0 -2.2204460492503131e-16 -1 0 1 -2.2204460492503131e-16 
+1 9 30.000000000000004 23 1 0 0 0 -2.2204460492503131e-16 -1 0 1 -2.2204460492503131e-16 
+1 9 30.000000000000004 23 1 0 0 0 -2.2204460492503131e-16 -1 0 1 -2.2204460492503131e-16 
+1 9 30.000000000000004 15.578669338830817 -0 -2.2204460492503131e-16 -1 -1 0 0 0 1 -2.2204460492503131e-16 
+1 9 30.000000000000004 15.578669338830817 -0 -2.2204460492503131e-16 -1 -1 0 0 0 1 -2.2204460492503131e-16 
+1 9 30.000000000000004 15.578669338830817 -0 -2.2204460492503131e-16 -1 -1 0 0 0 1 -2.2204460492503131e-16 
+1 7.6000000000000014 30.000000000000004 18.578669338830849 1 -1.3147681753683389e-31 -5.9211894646674381e-16 -5.9211894646674381e-16 -2.2204460492503131e-16 -1 0 1 -2.2204460492503131e-16 
+1 7.6000000000000014 30.000000000000004 18.578669338830849 1 -1.3147681753683389e-31 -5.9211894646674381e-16 -5.9211894646674381e-16 -2.2204460492503131e-16 -1 0 1 -2.2204460492503131e-16 
+1 7.6000000000000014 30.000000000000004 18.578669338830849 1 -1.3147681753683389e-31 -5.9211894646674381e-16 -5.9211894646674381e-16 -2.2204460492503131e-16 -1 0 1 -2.2204460492503131e-16 
+Triangulations 0
+
+TShapes 25
+Ve
+1.50000003972055e-07
+7.6 18.5786693388308 0
+0 0
+
+0101101
+*
+Ve
+1.50000003972055e-07
+-27.6 18.5786693388308 0
+0 0
+
+0101101
+*
+Ed
+ 1.50000003972055e-07 1 1 0
+1  1 0 0 35.2
+2  1 1 5 0 35.2
+2  2 1 7 0 35.2
+2  3 2 8 0 35.2
+2  4 3 46 0 35.2
+2  5 4 50 0 35.2
+2  6 4 52 0 35.2
+2  7 5 53 0 35.2
+2  8 3 54 0 35.2
+2  9 6 58 0 35.2
+2  10 6 60 0 35.2
+2  11 7 61 0 35.2
+2  12 3 62 0 35.2
+0
+
+0101000
++25 0 -24 0 *
+Ve
+1.50000003972055e-07
+-27.6 15.5786693388308 0
+0 0
+
+0101101
+*
+Ed
+ 1.50000003972055e-07 1 1 0
+1  2 0 0 3
+2  13 8 5 0 3
+2  14 8 7 0 3
+2  15 2 8 0 3
+2  16 9 50 0 3
+2  17 9 52 0 3
+2  18 5 53 0 3
+2  19 10 58 0 3
+2  20 10 60 0 3
+2  21 7 61 0 3
+0
+
+0101000
++24 0 -22 0 *
+Ve
+1.50000003972055e-07
+-29 15.5786693388308 0
+0 0
+
+0101101
+*
+Ed
+ 1.50000003972055e-07 1 1 0
+1  3 0 0 1.4
+2  22 11 5 0 1.4
+2  23 11 7 0 1.4
+2  24 2 8 0 1.4
+2  25 12 50 0 1.4
+2  26 12 52 0 1.4
+2  27 5 53 0 1.4
+2  28 13 58 0 1.4
+2  29 13 60 0 1.4
+2  30 7 61 0 1.4
+0
+
+0101000
++22 0 -20 0 *
+Ve
+1.50000007524768e-07
+-29 23 0
+0 0
+
+0101101
+*
+Ed
+ 1.50000003972055e-07 1 1 0
+1  4 0 0 7.42133066116915
+2  31 14 5 0 7.42133066116915
+2  32 14 7 0 7.42133066116915
+2  33 2 8 0 7.42133066116915
+2  34 15 50 0 7.42133066116915
+2  35 15 52 0 7.42133066116915
+2  36 5 53 0 7.42133066116915
+2  37 16 58 0 7.42133066116915
+2  38 16 60 0 7.42133066116915
+2  39 7 61 0 7.42133066116915
+0
+
+0101000
++20 0 -18 0 *
+Ve
+1.50000007524768e-07
+-27.6 23 0
+0 0
+
+0101101
+*
+Ed
+ 1.50000007524768e-07 1 1 0
+1  5 0 0 1.4
+2  40 17 5 0 1.4
+2  41 17 7 0 1.4
+2  42 2 8 0 1.4
+2  43 3 46 0 1.4
+2  44 18 66 0 1.4
+2  45 18 67 0 1.4
+2  46 19 50 0 1.4
+2  47 19 52 0 1.4
+2  48 5 53 0 1.4
+2  49 3 54 0 1.4
+2  50 18 68 0 1.4
+2  51 18 69 0 1.4
+2  52 20 58 0 1.4
+2  53 20 60 0 1.4
+2  54 7 61 0 1.4
+2  55 3 62 0 1.4
+2  56 18 70 0 1.4
+2  57 18 71 0 1.4
+2  58 21 74 0 1.4
+2  59 22 74 0 1.4
+2  60 23 76 0 1.4
+2  61 24 76 0 1.4
+0
+
+0101000
++18 0 -16 0 *
+Ve
+1.50000003972055e-07
+-27.6 19.9786693388308 0
+0 0
+
+0101101
+*
+Ed
+ 1.50000003972055e-07 1 1 0
+1  6 0 0 3.02133066116915
+2  62 25 5 0 3.02133066116915
+2  63 25 7 0 3.02133066116915
+2  64 2 8 0 3.02133066116915
+2  65 3 46 0 3.02133066116915
+2  66 26 50 0 3.02133066116915
+2  67 26 52 0 3.02133066116915
+2  68 5 53 0 3.02133066116915
+2  69 3 54 0 3.02133066116915
+2  70 27 58 0 3.02133066116915
+2  71 27 60 0 3.02133066116915
+2  72 7 61 0 3.02133066116915
+2  73 3 62 0 3.02133066116915
+0
+
+0101000
++16 0 -14 0 *
+Ve
+1.50000003972055e-07
+7.6 19.9786693388308 0
+0 0
+
+0101101
+*
+Ed
+ 1.50000003972055e-07 1 1 0
+1  7 0 0 35.2
+2  74 28 5 0 35.2
+2  75 28 7 0 35.2
+2  76 2 8 0 35.2
+2  77 3 46 0 35.2
+2  78 29 50 0 35.2
+2  79 29 52 0 35.2
+2  80 5 53 0 35.2
+2  81 3 54 0 35.2
+2  82 30 58 0 35.2
+2  83 30 60 0 35.2
+2  84 7 61 0 35.2
+2  85 3 62 0 35.2
+0
+
+0101000
++14 0 -12 0 *
+Ve
+1.50000007524768e-07
+7.6 23 0
+0 0
+
+0101101
+*
+Ed
+ 1.50000003972055e-07 1 1 0
+1  8 0 0 3.02133066116915
+2  86 31 5 0 3.02133066116915
+2  87 31 7 0 3.02133066116915
+2  88 2 8 0 3.02133066116915
+2  89 3 46 0 3.02133066116915
+2  90 32 50 0 3.02133066116915
+2  91 32 52 0 3.02133066116915
+2  92 5 53 0 3.02133066116915
+2  93 3 54 0 3.02133066116915
+2  94 33 58 0 3.02133066116915
+2  95 33 60 0 3.02133066116915
+2  96 7 61 0 3.02133066116915
+2  97 3 62 0 3.02133066116915
+0
+
+0101000
++10 0 -12 0 *
+Ve
+1.50000007524768e-07
+9 23 0
+0 0
+
+0101101
+*
+Ed
+ 1.50000003972055e-07 1 1 0
+1  9 0 0 1.4
+2  98 34 5 0 1.4
+2  99 34 7 0 1.4
+2  100 2 8 0 1.4
+2  101 3 46 0 1.4
+2  102 18 66 0 1.4
+2  103 18 67 0 1.4
+2  104 35 50 0 1.4
+2  105 35 52 0 1.4
+2  106 5 53 0 1.4
+2  107 3 54 0 1.4
+2  108 18 68 0 1.4
+2  109 18 69 0 1.4
+2  110 36 58 0 1.4
+2  111 36 60 0 1.4
+2  112 7 61 0 1.4
+2  113 3 62 0 1.4
+2  114 18 70 0 1.4
+2  115 18 71 0 1.4
+0
+
+0101000
++10 0 -8 0 *
+Ve
+1.50000003972055e-07
+9 15.5786693388308 0
+0 0
+
+0101101
+*
+Ed
+ 1.50000003972055e-07 1 1 0
+1  10 0 0 7.42133066116918
+2  116 37 5 0 7.42133066116918
+2  117 37 7 0 7.42133066116918
+2  118 2 8 0 7.42133066116918
+2  119 38 50 0 7.42133066116918
+2  120 38 52 0 7.42133066116918
+2  121 5 53 0 7.42133066116918
+2  122 39 58 0 7.42133066116918
+2  123 39 60 0 7.42133066116918
+2  124 7 61 0 7.42133066116918
+0
+
+0101000
++8 0 -6 0 *
+Ve
+1.50000003972055e-07
+7.6 15.5786693388308 0
+0 0
+
+0101101
+*
+Ed
+ 1.50000003972055e-07 1 1 0
+1  11 0 0 1.4
+2  125 40 5 0 1.4
+2  126 40 7 0 1.4
+2  127 2 8 0 1.4
+2  128 41 50 0 1.4
+2  129 41 52 0 1.4
+2  130 5 53 0 1.4
+2  131 42 58 0 1.4
+2  132 42 60 0 1.4
+2  133 7 61 0 1.4
+0
+
+0101000
++6 0 -4 0 *
+Ed
+ 1.50000003972055e-07 1 1 0
+1  12 0 0 3.00000000000003
+2  134 43 5 0 3.00000000000003
+2  135 43 7 0 3.00000000000003
+2  136 2 8 0 3.00000000000003
+2  137 44 50 0 3.00000000000003
+2  138 44 52 0 3.00000000000003
+2  139 5 53 0 3.00000000000003
+2  140 45 58 0 3.00000000000003
+2  141 45 60 0 3.00000000000003
+2  142 7 61 0 3.00000000000003
+0
+
+0101000
++25 0 -4 0 *
+Wi
+
+0101100
++23 0 +21 0 +19 0 +17 0 +15 0 +13 0 +11 0 -9 0 +7 0 +5 0 
++3 0 -2 0 *
+
++1 1 ]]>
+      </Part>
+      <ElementMap new="1" count="1"><Element key="Dummy" value="Dummy"/></ElementMap>
+      <ElementMap2 count="36">
+<![CDATA[
+527 PostfixCount 3
+Edge
+Vertex
+;SKT
+
+MapCount 1
+
+ElementMap 1 527 2
+
+Edge
+
+ChildCount 0
+
+NameCount 13
+0
+;g5.3 0
+;g17.3 0
+;g10.3 0
+;g11.3 0
+;g8.3 0
+;g16.3 0
+;g3.3 0
+;g18.3 0
+;g12.3 0
+;g13.3 0
+;g14.3 0
+;g19.3 0
+
+Vertex
+
+ChildCount 0
+
+NameCount 13
+0
+;g5v1.3 ;g19v1.3 0
+;g17v1.3 ;g5v2.3 0
+;g10v1.3 ;g17v2.3 0
+;g11v1.3 ;g10v2.3 0
+;g8v1.3 ;g11v2.3 0
+;g16v1.3 ;g8v2.3 0
+;g3v1.3 ;g16v2.3 0
+;g3v2.3 ;g18v2.3 0
+;g18v1.3 ;g12v1.3 0
+;g12v2.3 ;g13v1.3 0
+;g13v2.3 ;g14v1.3 0
+;g14v2.3 ;g19v2.3 0
+
+EndMap
+]]>
+      </ElementMap2>
+    </Property>
+    <Property name="Support" type="App::PropertyLinkSubList">
+      <LinkSubList count="1">
+        <Link obj="Fillet038" sub="Face17" shadowed=";#22fc1;:H646,F.Face17"/>
+      </LinkSubList>
+    </Property>
+    <Property name="Visibility" type="App::PropertyBool" status="648">
+      <Bool value="false"/>
+    </Property>
+  </Properties>
+</Object>
+</Document>
